@@ -27,6 +27,3 @@ This project is a follow-on from the Spring 2024 Capstone Project, aiming to adv
 
 - MSSC Knowledge Base: [MSSC Knowledge Base](https://mason.my.site.com/SelfServiceHC/s/topiccatalog)
 
-### Licensing
-
-All project deliverables will be published under the **Apache License 2.0**.
