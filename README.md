@@ -9,13 +9,13 @@ This project established the groundwork for a six-month pilot of a Generative AI
 
 ### 6-Month pilot task 
 
-Rebuild the Kendra RAG Intelligent Search Index
-Rebuild the AWS OnABot Environment
-Upgrade the LLM to Anthropic Claude 3.5 Sonnet
-Update the Chatbot Interface with GMU Branding
-Modify the Prompt Engineering prompt passed to the LLM
-Perform Unit Testing to Evaluate the Quality of LLM Responses
-Collaborate with MSSC and ITS to define the Test Plan for the 6-month Pilot
+1. Rebuild the Kendra RAG Intelligent Search Index
+2. Rebuild the AWS OnABot Environment
+3. Upgrade the LLM to Anthropic Claude 3.5 Sonnet
+4. Update the Chatbot Interface with GMU Branding
+5. Modify the Prompt Engineering prompt passed to the LLM
+6. Perform Unit Testing to Evaluate the Quality of LLM Responses
+7. Collaborate with MSSC and ITS to define the Test Plan for the 6-month Pilot
 
 ### Estimated Costs for the 6-Month Pilot
 
